@@ -1,6 +1,5 @@
-## END OF SUPPORT
-__EnhancedDiscord is being shut down.__ It's been nice while it lasted, but we can't keep up with the maintenance that Discord's constant changes require. There won't be any more updates, and on **April 12th**, all support will be dropped and the site will go offline. We recommend you find another client mod that is actively maintained.
-<br><hr><br>
+My fixed-up, still-barely-maintained [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) fork.
+Original README follows below.
 
 # EnhancedDiscord
 A lightweight client mod designed to enhance your Discord experience without slowing down your PC.
